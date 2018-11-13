@@ -7,3 +7,5 @@ git!
 develop!!
 
 これはdevelop2による変更です！。
+
+pull リモートリポジトリの内容を取得する
