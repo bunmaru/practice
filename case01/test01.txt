@@ -5,3 +5,5 @@ develop!!
 git!
 
 develop!!
+
+これはdevelop2による変更です！。
