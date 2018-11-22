@@ -5,3 +5,5 @@ develop!!
 git!
 
 develop!!
+
+マージの勉強
